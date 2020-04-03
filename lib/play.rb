@@ -37,5 +37,6 @@ end
 
 # Define your play method below
 def play(board) 
-  rounds= 0
+  rounds = 0
+  while rounds < 9
 end
